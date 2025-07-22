@@ -1,5 +1,7 @@
 # PSI Planner
 
+# PSI Planner
+
 Global Weekly PSI Planning Tool (Multi-SKU対応, GUI + 最適化対応)
 
 ## Modules
